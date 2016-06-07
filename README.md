@@ -2,7 +2,7 @@
 
 The purpose of this homework is to leverage animations and gestures to implement more sophisticated interactions. We're going to use the techniques from this week to implement the Mailbox interactions.
 
-Time spent: `10`
+Time spent: `10 hours
 
 ### Features
 
@@ -46,5 +46,3 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 This one was a doozy. Took a lot of effort to figure out how to move the elements around and then to move elements together. Once I figured it out it went a lot faster.
-
-* Any libraries or borrowed content.
